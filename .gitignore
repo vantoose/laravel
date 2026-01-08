@@ -1,7 +1,7 @@
 #/app
 #/build
 /certs/ssh/*
-#/config/laravel/*
+/config/laravel/.env*
 #/config/mysql/*
 /config/nginx/conf.d/*
 #/config/php/*
