@@ -1,0 +1,10 @@
+#/app
+#/build
+/certs/ssh/*
+#/config/laravel/*
+#/config/mysql/*
+/config/nginx/conf.d/*
+#/config/php/*
+/logs/laravel/*
+/logs/nginx/*
+#/scripts/*
